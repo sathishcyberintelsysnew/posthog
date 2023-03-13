@@ -117,7 +117,7 @@
         "rc-field-form": "~1.21.0",
         "rc-picker": "~2.5.17",
         "rc-select": "~13.1.0-alpha.0",
-        "rc-table": "~7.19.0",
+        "rc-table": "~7.30.4",
         "rc-trigger": "^5.2.5",
         "react": "^16.14.0",
         "react-dom": "^16.14.0",
