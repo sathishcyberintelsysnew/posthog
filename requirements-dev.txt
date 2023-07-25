@@ -26,7 +26,7 @@ black==22.8.0
     # via
     #   -r requirements-dev.in
     #   datamodel-code-generator
-certifi==2019.11.28
+certifi==2023.7.22
     # via
     #   -c requirements.txt
     #   requests
