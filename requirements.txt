@@ -102,7 +102,7 @@ django==3.2.16
     #   djangorestframework
     #   djangorestframework-dataclasses
     #   drf-spectacular
-django-axes==5.9.0
+django-axes==5.20.0
     # via -r requirements.in
 django-cors-headers==3.5.0
     # via -r requirements.in
