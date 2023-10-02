@@ -260,7 +260,7 @@ ptyprocess==0.6.0
     # via pexpect
 pycparser==2.20
     # via cffi
-pydantic==1.10.4
+pydantic==1.10.13
     # via -r requirements.in
 pyjwt==2.4.0
     # via
