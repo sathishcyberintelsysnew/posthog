@@ -63,7 +63,7 @@ clickhouse-driver==0.2.4
     #   clickhouse-pool
 clickhouse-pool==0.5.3
     # via -r requirements.in
-cryptography==37.0.2
+cryptography==41.0.5
     # via
     #   kafka-helper
     #   pyopenssl
