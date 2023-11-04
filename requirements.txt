@@ -84,7 +84,7 @@ deprecated==1.2.13
     # via redis
 dj-database-url==0.5.0
     # via -r requirements.in
-django==3.2.16
+django==3.2.23
     # via
     #   -r requirements.in
     #   django-axes
@@ -248,7 +248,7 @@ phonenumberslite==8.13.6
     # via -r requirements.in
 pickleshare==0.7.5
     # via -r requirements.in
-pillow==9.2.0
+pillow==10.0.0
     # via -r requirements.in
 posthoganalytics==2.3.1
     # via -r requirements.in
